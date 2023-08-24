@@ -35,7 +35,7 @@ h1 {
   box-shadow: 0 4px 6px -1px #0000001a, 0 2px 4px -1px #0000000f;
 }
 body {
-  background-image: url("../try4.jpeg");
+  background-image: url("try4.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
