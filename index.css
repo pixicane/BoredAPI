@@ -93,9 +93,10 @@ button {
   font-size: 25px;
   cursor: pointer;
   box-shadow: 0 4px 6px -1px #0000001a, 0 2px 4px -1px #0000000f;
+  transition: transform 0.2s ease-in-out;
 }
 button:active {
-  padding: 10px;
+  transform: scale(0.95);
 }
 .footer {
   position: fixed;
